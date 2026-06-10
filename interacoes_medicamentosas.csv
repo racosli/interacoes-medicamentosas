@@ -1,0 +1,51 @@
+farmaco_1,farmaco_2,gravidade,mecanismo,conduta
+varfarina,amiodarona,Grave,Inibição do CYP2C9 (aumenta INR),Evitar associação ou monitorar INR frequentemente e ajustar dose
+varfarina,metronidazol,Grave,Inibição do CYP2C9 (aumenta INR),Evitar ou monitorar INR e ajustar dose
+varfarina,fluconazol,Grave,Inibição do CYP2C9 (aumenta INR),Evitar ou monitorar INR frequentemente
+varfarina,trimetoprima-sulfametoxazol,Grave,Inibição do CYP2C9 + efeito antiplaquet‡rio,Evitar ou monitorar INR rigorosamente
+varfarina,aspirina (AAS),Modera a Grave,Farmacodinâmico (aumento risco hemorragia),Evitar associação; se necessário;  monitorar sinais de sangramento
+digoxina,amiodarona,Grave,Redução da depura‹o da digoxina,Ajustar dose de digoxina e monitorar nível sérico
+digoxina,verapamil,Grave,Redução da depura‹o da digoxina,Ajustar dose e monitorar nível de digoxina
+digoxina,quinidina,Grave,Redução da depura‹o da digoxina,Reduzir dose de digoxina e monitorar nível sérico
+simvastatina,amiodarona,Grave,Aumento risco de miopatia/rabdomi—lise,Evitar doses >20 mg de simvastatina com amiodarona
+simvastatina,verapamil,Modera a Grave,Aumento risco de miopatia,Limitar dose de simvastatina a 20 mg/dia
+simvastatina,claritromicina,Grave,Inibição do CYP3A4 (aumenta concentra‹o),Evitar associação
+atorvastatina,claritromicina,Grave,Inibição do CYP3A4,Ajustar dose ou evitar associação
+atorvastatina,amiodarona,Modera,Aumento risco de miopatia,Monitorar enzimas musculares e sintomas
+lisinopril,espironolactona,Modera a Grave,Hipercalemia (Farmacodinâmico),Monitorar sódio sérico e função renal
+lisinopril,potássio (suplemento),Modera a Grave,Hipercalemia,Evitar associação ou monitorar sódio sérico
+captopril,espironolactona,Modera a Grave,Hipercalemia,Monitorar sódio sérico e função renal
+metamorina,espironolactona,Modera,Hipercalemia risco moderado,Monitorar sódio sérico
+fluoxetina,tramadol,Grave,Risco de síndrome serotoninérgica,Avoid associação; se inevitável;  monitorar sinais de síndrome
+fluoxetina,sertralina,Grave,Aumento risco síndrome serotoninérgica,Não associar (mesma classe)
+sertralina,venlafaxina,Grave,Aumento risco síndrome serotoninérgica,Avoid associação
+fluoxetina,warfarina,Modera a Grave,Aumento risco hemorrágico (CYP2C9),Monitorar INR e sinais de sangramento
+citalopram,azitromicina,Modera a Grave,Aumento risco de QT prolongado,Avoid associação em pacientes com risco de arritmia
+citalopram,fluconazol,Modera a Grave,Aumento risco de QT prolongado,Monitorar ECG se associação necess‡ria
+azitromicina,eritromicina,Modera,Aumento risco de QT prolongado,Não associar macrolideos
+eritromicina,teofilina,Modera a Grave,Aumento nível de teofilina (CYP1A2),Monitorar nível de teofilina e ajustar dose
+teofilina,ciprofloxacino,Grave,Inibição do CYP1A2 (aumenta teofilina),Reduzir dose de teofilina e monitorar nível
+ciclosporina,claritromicina,Grave,Aumento nível de ciclosporina (CYP3A4),Monitorar nível de ciclosporina e ajustar dose
+ciclosporina,verapamil,Modera a Grave,Aumento nível de ciclosporina,Monitorar nível e ajustar dose
+tacrolimus,claritromicina,Grave,Aumento nível de tacrolimus (CYP3A4),Monitorar nível e ajustar dose
+fenitoína,warfarina,Modera,Indu‹o/Inibição de CYP (efeito variável),Monitorar INR e nível de fenitoína
+carbamazepina,warfarina,Modera,Indu‹o de CYP (reduz efeito varfarina),Monitorar INR e ajustar dose
+carbamazepina,orais contraceptivos,Modera,Indu‹o de CYP (reduz efeito contraceptivo),Usar método contraceptivo adicional
+eritromicina,carbamazepina,Grave,Aumento nível de carbamazepina,Monitorar nível e sinais de toxicidade
+metotrexato,trimetoprima-sulfametoxazol,Grave,Aumento toxicidade ˆ bone marrow,Avoid associação
+metotrexato,ibuprofeno,Modera a Grave,Aumento toxicidade do metotrexato,Evitar ou monitorar função renal e hemograma
+furosemida,digoxina,Modera,Hipocalemia (aumenta risco toxidade digoxina),Monitorar sódio e potássio
+furosemida,lisinopril,Modera,Risco de hipotens‹o inicial,Monitorar press‹o e função renal
+hidroclorotiazida,lítio,Grave,Aumento nível de lítio,Avoid associação ou monitorar nível de lítio
+lítio,ibuprofeno,Modera a Grave,Aumento nível de lítio,Monitorar nível de lítio e função renal
+alendronato,café,Modera,Redução da absorção,Tomar alendronato com água e evitar alimentos por 30 min
+alendronato,leite,Modera,Redução da absorção,Tomar com água e evitar laticínios por 30 min
+levotiroxina,café,Modera,Redução da absorção,Tomar em jejum e evitar café por 30Ğ60 min
+levotiroxina,—leo mineral,Modera,Redução da absorção,Avoid associação ou separar horário
+levotiroxina,ferro,Modera,Redução da absorção,Separar por 4 horas
+levotiroxina,c‡lcio,Modera,Redução da absorção,Separar por 4 horas
+azitromicina,anticoagulantes orais,Modera,Aumento risco hemorrágico,Monitorar INR
+clindamicina,warfarina,Modera,Aumento INR,Monitorar INR
+vancomicina,aminoglicos’deos,Grave,Aumento nefrotoxicidade,Avoid associação se possível
+gentamicina,vancomicina,Grave,Aumento nefrotoxicidade,Avoid associação
+aminoflin,eritromicina,Grave,Aumento nível de teofilina,Monitorar nível e ajustar dose
